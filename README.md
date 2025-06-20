@@ -79,8 +79,3 @@ Identificar patrones y variables asociadas a la cancelación del servicio por pa
 **Fecha:** Junio 2025
 
 ---
-
-## 📚 Licencia
-
-Este proyecto se comparte con fines educativos y de análisis. Para usos comerciales, por favor contactar al autor.
-
